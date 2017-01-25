@@ -30,7 +30,7 @@
     "gulp-mocha": "^3.0.1",
     "gulp-plumber": "^1.0.0",
     "sinon": "^1.15.4",
-    "eslint": "^3.1.1",
+    "eslint": "^3.14.1",
     "eslint-config-xo-space": "^0.15.0",
     "gulp-eslint": "^3.0.1",
     "gulp-nsp": "^2.1.0"
